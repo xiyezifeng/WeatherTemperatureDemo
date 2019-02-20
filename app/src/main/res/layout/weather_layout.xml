@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.example.lixiao.basicdemo.app.widget.MyNesScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:scrollbars="none"
+    android:id="@+id/nesview">
+    <com.example.lixiao.basicdemo.app.widget.WeatherView
+        android:id="@+id/weather_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+        <com.example.lixiao.basicdemo.app.widget.LineView
+            android:id="@+id/line_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            />
+    </com.example.lixiao.basicdemo.app.widget.WeatherView>
+</com.example.lixiao.basicdemo.app.widget.MyNesScrollView>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="90px"
+    android:layout_height="40px"
+    android:text="999 中毒"
+    android:textSize="9sp"
+    android:gravity="center"
+    android:textColor="#fff"
+    android:background="@drawable/shape_air_text_view">
+
+</TextView>
