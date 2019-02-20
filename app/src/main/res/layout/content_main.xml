@@ -12,7 +12,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="lkdsjklfdsjkfljdsf sdkfdsakfjdsajkfljds "/>
+        android:text="这是一个天气的温度折线图部分 "/>
     <androidx.core.widget.NestedScrollView
         android:layout_width="match_parent"
         android:layout_height="match_parent">
