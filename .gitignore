@@ -5,3 +5,6 @@ gradle/wrapper/gradle-wrapper.jar
 gradlew
 gradlew.bat
 local.properties
+/.gradle
+/.idea
+.idea/*
